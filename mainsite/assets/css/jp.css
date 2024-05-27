@@ -1,0 +1,10 @@
+@media (min-width: 1200px){
+	#how_it_work .box_inner{
+		min-height:314px;
+	}
+}
+@media (min-width: 992px) and (max-width:1199px){
+	#how_it_work .box_inner{
+		min-height:344px;
+	}
+} 

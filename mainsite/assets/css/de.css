@@ -1,0 +1,35 @@
+.navbar-expand-lg .navbar-nav .nav-link{
+	padding:0 6px;
+	font-size:14px;
+}
+.banner_text h1{
+	font-size:30px;
+}
+.benefit_box h6{
+	font-size:10px;
+}
+.plans-wrapper ul li .plan-details h5{
+	font-size:15px;
+}
+.stat-li li h5{
+	font-size:24px;
+}
+.stat-li li h6{
+	font-size:12px;
+}
+.footer-menu li a{
+	font-size:12px;
+}
+.footer-menu li{
+	padding:0 6px;
+}
+.dep-calc h4{
+	font-size:11px;
+}
+.confirm-line{
+	font-size:18px;
+}
+.security-body ul li label{
+	font-size:12px;
+	padding:5px 15px;
+}

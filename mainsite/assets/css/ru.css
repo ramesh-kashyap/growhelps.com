@@ -1,0 +1,27 @@
+header .navbar-expand-lg .navbar-nav .nav-link{
+	font-size: 12px;
+	padding:0 6px;
+}
+.navbar-expand-lg .navbar-nav.nav_btn a {
+    padding: 10px;
+    font-size: 11px;
+}
+.banner_text h1 {
+    font-size: 30px;
+    line-height: 36px;
+}
+.benefit_box h6{
+	font-size:12px;
+}
+.stat-li li h5{
+	font-size:24px;
+}
+.footer-menu li a{
+	font-size:12px;
+}
+.footer-menu li{
+	padding: 0 7px;
+}
+.dep-calc h4{
+	font-size:11px;
+}
